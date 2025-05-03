@@ -1,0 +1,22 @@
+
+/* set the background color & font type using element selector*/
+body {
+    background-color: rgb(235, 237, 243);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* create a class selector "s" for the element ul*/
+.s {
+    list-style-type: square;
+    padding-left: 40px; 
+   
+  }
+
+/* create a class selector "img-size" */
+ .img-size {
+    width: 100%;
+    height: 400px;    
+}
+
+
+  
